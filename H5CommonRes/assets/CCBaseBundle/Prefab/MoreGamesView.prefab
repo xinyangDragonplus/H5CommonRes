@@ -70,8 +70,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        0,
-        0,
+        384,
+        682.5,
         0,
         0,
         0,
@@ -115,7 +115,7 @@
     "_prefab": {
       "__id__": 5
     },
-    "_opacity": 150,
+    "_opacity": 200,
     "_color": {
       "__type__": "cc.Color",
       "r": 32,
