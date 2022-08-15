@@ -1,6 +1,6 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "ClickGuide",
+  "_name": "ClickGuide_Hit",
   "_objFlags": 0,
   "_native": "",
   "_duration": 1.3333333333333333,
@@ -74,6 +74,16 @@
                 "x": 1,
                 "y": 1
               }
+            }
+          ]
+        }
+      },
+      "Jiantou": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
             }
           ]
         }
