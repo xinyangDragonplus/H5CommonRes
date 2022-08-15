@@ -31,7 +31,13 @@
       },
       "Glow": {
         "props": {
-          "anchorX": []
+          "anchorX": [],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
         }
       }
     },
