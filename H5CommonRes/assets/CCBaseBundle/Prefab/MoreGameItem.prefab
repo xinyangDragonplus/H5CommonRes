@@ -486,9 +486,31 @@
       "__id__": 1
     },
     "_enabled": true,
-    "_defaultClip": null,
+    "_defaultClip": {
+      "__uuid__": "71fad2e6-0f84-4965-93aa-3721c526399d"
+    },
     "_clips": [
-      null,
+      {
+        "__uuid__": "78f43b9c-b374-4f30-8ebd-c44da1fc2a26"
+      },
+      {
+        "__uuid__": "902e6bc3-5687-4ac8-bd0e-7b582b78d0c3"
+      },
+      {
+        "__uuid__": "71fad2e6-0f84-4965-93aa-3721c526399d"
+      },
+      {
+        "__uuid__": "7714792a-6106-423a-a3ef-a33a7b942842"
+      },
+      {
+        "__uuid__": "1164d327-90af-4b3c-8a92-edb86aaf706d"
+      },
+      {
+        "__uuid__": "4705b289-0a96-4ec1-bea1-b6e26a65b318"
+      },
+      {
+        "__uuid__": "b9137e21-6149-424f-b233-171e320e162b"
+      },
       {
         "__uuid__": "8aab146e-a10e-4669-9a0d-43eb9b05e5f3"
       }
